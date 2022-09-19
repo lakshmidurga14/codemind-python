@@ -1,3 +1,3 @@
-r=float(input())
-area=3.14*r**2
-print(area)
+r=int(input())
+m=3.14*r*r
+print('%.2f'% m)
